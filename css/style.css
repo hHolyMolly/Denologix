@@ -3710,12 +3710,12 @@ body._lock-scroll {
 }
 
 .support__desc {
-  font-weight: 100;
+  font-weight: 300;
   font-size: 20px;
 
   line-height: 200%;
   text-align: center;
-  color: #fff;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 .support__desc span {
